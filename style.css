@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    color: #000;
+    font-size: 
+    font-weight:
+    line-height: 1.5;
+}
+header{
+    background-color: #E7E9FC;
+    font-size: 16px;
+    color: #434455;
+}
+.logo {
+    font-family: Raleway,sans-serif;
+    text-decoration: none;
+    font-size: 21px;
+    letter-spacing: 1.3;
+    line-height: 2.1;
+}
+h1{
+    color:#FFFFFF;
+    font-size: 56px;
+    background-color: #2E2F42;
+    width: 1440px;
+    line-height: 1.6;
+    letter-spacing: 1.2;
+    padding: 15px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.bttn{
+    cursor: pointer;
+    width: 169px;
+    height: 56px;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    letter-spacing: 1.4;
+}
+.button:hover{
+    color: #404BBF ;
+}
+.site-nav .link:hover,
+.site-nav .link:focus{
+    color: #404BBF;
+}
+.contacts .link:hover,
+.contacts .link:focus{
+color:#404BBF;
+}
+
